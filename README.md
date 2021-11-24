@@ -4,7 +4,7 @@
 <img width="500" src="./docs/img/tods_logo.png" alt="Logo" />
 
 <!-- [![Build Status](https://travis-ci.org/datamllab/tods.svg?branch=master)](https://travis-ci.org/datamllab/tods) -->
-![example workflow](https://github.com/datamllab/tods/actions/workflows/test.yml/badge.svg)
+![example workflow](https://github.com/datamllab/tods/workflows/test.yml/badge.svg)
 
 [中文文档](README.zh-CN.md)
 
