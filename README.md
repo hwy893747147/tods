@@ -3,7 +3,8 @@
 
 <img width="500" src="./docs/img/tods_logo.png" alt="Logo" />
 
-[![Build Status](https://travis-ci.org/datamllab/tods.svg?branch=master)](https://travis-ci.org/datamllab/tods)
+<!-- [![Build Status](https://travis-ci.org/datamllab/tods.svg?branch=master)](https://travis-ci.org/datamllab/tods) -->
+![example workflow](https://github.com/datamllab/tods/.github/workflows/test.yml/badge.svg)
 
 [中文文档](README.zh-CN.md)
 
