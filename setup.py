@@ -46,12 +46,11 @@ setup(
         'PyWavelets>=1.1.1',
         'pillow==7.1.2',
         'tensorflow==2.2', # should be removed later
-        'keras', # should be removed later
+        'keras==2.0', # should be removed later
         'pyod',
         'nimfa==1.4.0',
         'stumpy==1.4.0',
         'more-itertools==8.5.0',
-        'pytest',
     ],
 
     entry_points = merge_entry_points()
