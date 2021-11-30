@@ -28,3 +28,5 @@ jobs:
         pip install -e .
     - name: run pytest
       run: pytest tods/tests
+    - name: codecov
+      uses: codecov/codecov-action@v1
