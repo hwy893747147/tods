@@ -46,7 +46,7 @@ setup(
         'PyWavelets>=1.1.1',
         'pillow==7.1.2',
         'tensorflow==2.2', # should be removed later
-        'keras==2.1', # should be removed later
+        'keras==2.0', # should be removed later
         'pyod',
         'nimfa==1.4.0',
         'stumpy==1.4.0',
